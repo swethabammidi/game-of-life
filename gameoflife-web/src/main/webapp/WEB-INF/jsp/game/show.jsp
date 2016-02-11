@@ -5,10 +5,10 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>The Game Of Life</title>
+    <title>The Game Of Life for DevOps Demo</title>
     <style type="text/css">
         h2 {
-            color: blue;
+            color: grey;
             font-family: sans-serif;
         }
 
@@ -87,7 +87,7 @@
 <c:url value="/game/next" var="nextPage"/>
 
 <div class="breadcrumbs">
-    <a href="${homePage}">home</a> > Game in Progress
+    <a href="${homePage}">home</a> > Game in Progress ... Keep Watching
 </div>
 <div class="intro">Press 'Next Generation' to see how this universe evolves...</div>
 <div class="griddisplay">
