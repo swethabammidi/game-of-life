@@ -61,13 +61,15 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life!</h2>
+<h2>Welcome to DevOps handsone with Game Of Life!</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
         Life. The Game of Life is a cellular automaton devised by the British
         mathematician John Horton Conway way back in 1970.</p>
 
+   <p>Unfortunately the code is tampered by me</p>
+    
     <p>The universe of the Game of Life is an infinite two-dimensional
         orthogonal grid of square cells, each of which is in one of two possible
         states, live or dead. Every cell interacts with its eight neighbors,
